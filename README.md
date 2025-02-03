@@ -32,15 +32,5 @@ This project implements various array and ArrayList operations in Java. The repo
 ### `Main.java`
 - Calls all the implemented methods and prints the results.
 
-
-## Contribution & Commit Guidelines
-- Each file should be committed separately.
-- Each method should have a dedicated commit.
-- Follow Java coding standards and add comments where necessary.
-
-## Submission
-- Convert all Java files into a single PDF including output screenshots.
-- Include the GitHub repository link in the PDF.
-
 ## GitHub Repository
 https://github.com/shwetgaur/Array_and_ArrayList.git
