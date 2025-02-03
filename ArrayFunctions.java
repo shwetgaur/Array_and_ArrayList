@@ -43,10 +43,5 @@ public class ArrayFunctions {
         return minIndex;
     }
 
-    public static void main(String[] args) {
-        ArrayFunctions af = new ArrayFunctions();
-        int minIndex = af.Difference();
-        System.out.println("Index of the pair with minimum difference: " + minIndex);
-        af.Distribute();
-    }
+    
 }
